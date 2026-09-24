@@ -1,0 +1,9 @@
+{
+  "title": "ClaritX forward-tested AI stock-selection record",
+  "upload_type": "dataset",
+  "description": "Pre-registered AI stock-selection strategies measured forward against a total-return S&P 500, with losing arms published. Monthly frozen editions of an append-only archive. Live version: https://www.claritx.ai/research",
+  "creators": [{ "name": "ClaritX Research Engine" }],
+  "license": "cc-by-4.0",
+  "keywords": ["forward test", "stock selection", "quantitative finance", "AI stock scores", "S&P 500", "pre-registration"],
+  "related_identifiers": [{ "identifier": "https://www.claritx.ai/research", "relation": "isSupplementTo", "scheme": "url" }]
+}

@@ -1,0 +1,57 @@
+name: Archive snapshot
+
+# Twice a day, copy the published record into this repository and commit it
+# if anything moved. The commit history is the point: each night's numbers get
+# a timestamp and a hash that the publisher cannot quietly rewrite later.
+on:
+  schedule:
+    - cron: '17 6 * * *'
+    - cron: '17 18 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: snapshot
+  cancel-in-progress: false
+
+jobs:
+  snapshot:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - id: sync
+        run: node scripts/sync.mjs
+      - name: Commit if the record moved
+        env:
+          SNAPSHOT: ${{ steps.sync.outputs.snapshot }}
+        run: |
+          git config user.name  "claritx-archive"
+          git config user.email "archive@claritx.ai"
+          git add data
+          if git diff --cached --quiet; then
+            echo "no change"
+            exit 0
+          fi
+          git commit -m "snapshot ${SNAPSHOT}"
+          git push
+      - name: Monthly edition
+        # The first archived snapshot of a new month closes the previous month
+        # as a frozen, tagged edition — a fixed version to cite.
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          prev=$(date -u -d "$(date -u +%Y-%m-01) -1 day" +%Y-%m)
+          tag="edition-${prev}"
+          if git rev-parse -q --verify "refs/tags/${tag}" >/dev/null; then exit 0; fi
+          # Tag the last commit whose snapshot falls inside that month.
+          sha=$(git log --format='%H %s' | awk -v m="snapshot ${prev}-" 'index($0, m) {print $1; exit}')
+          [ -z "$sha" ] && exit 0
+          gh release create "$tag" --target "$sha" --title "Edition ${prev}" \
+            --notes "Frozen month-end snapshot of the ClaritX forward-tested record for ${prev}. Every losing arm included. Live version: https://www.claritx.ai/research"
