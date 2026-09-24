@@ -2,7 +2,8 @@
   "name": "ClaritX forward-tested AI stock-selection record",
   "description": "Pre-registered AI stock-selection strategies measured forward against a total-return S&P 500. Rules frozen before measurement; losing arms published.",
   "url": "https://www.claritx.ai/research",
-  "license": "https://www.claritx.ai/terms",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "archive": "https://github.com/Orcules/claritx-forward-test",
   "snapshot_date": "2026-09-23",
   "temporal_coverage": "2026-05-15/2026-09-23",
   "files": [
