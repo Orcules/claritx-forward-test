@@ -4,37 +4,23 @@
   "url": "https://www.claritx.ai/research",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "archive": "https://github.com/Orcules/claritx-forward-test",
-  "snapshot_date": "2026-09-23",
-  "temporal_coverage": "2026-05-15/2026-09-23",
+  "snapshot_date": "2026-09-24",
+  "temporal_coverage": "null/null",
   "files": [
-    {
-      "url": "https://www.claritx.ai/data/claritx-forward-test-daily.csv",
-      "title": "Daily forward-test series, every registered strategy arm",
-      "description": "One row per strategy-arm per trading day: the arm's index value and the total-return S&P 500 index over the same window, both rebased to 1.0 at that arm's registered inception. 889 observations, 2026-05-15 to 2026-09-23.",
-      "rows": 889,
-      "format": "text/csv"
-    },
-    {
-      "url": "https://www.claritx.ai/data/claritx-forward-test-arms.csv",
-      "title": "Strategy arms, registered rules and forward result",
-      "description": "One row per registered strategy arm: inception, trading days elapsed, total return, S&P 500 over the same window, alpha, information ratio, Sharpe, annualised volatility and maximum drawdown. Losing arms are included — that is the point. Snapshot 2026-09-23.",
-      "rows": 12,
-      "format": "text/csv"
-    },
     {
       "url": "https://www.claritx.ai/data/claritx-score-bands.csv",
       "title": "Forward performance by AI score band",
-      "description": "Every completed analysis scored 0-100 when published, then measured forward against a total-return S&P 500 over the same window, grouped into score bands. Snapshot 2026-09-23, 1,054 analyses.",
+      "description": "Every completed analysis scored 0-100 when published, then measured forward against a total-return S&P 500 over the same window, grouped into score bands. Snapshot 2026-09-24, 1,055 analyses.",
       "rows": 6,
       "format": "text/csv"
     },
     {
       "url": "https://www.claritx.ai/data/claritx-cohort-history.csv",
       "title": "Archived nightly cohort snapshots",
-      "description": "The same cohort measurement re-run and archived every night: 47 dated snapshots from 2026-07-17 to 2026-09-23, 282 rows. Best and worst holding named in each.",
-      "rows": 282,
+      "description": "The same cohort measurement re-run and archived every night: 48 dated snapshots from 2026-07-17 to 2026-09-24, 288 rows. Best and worst holding named in each.",
+      "rows": 288,
       "format": "text/csv"
     }
   ],
-  "citation": "ClaritX Research Engine, \"Forward-tested AI stock-selection record\", snapshot 2026-09-23. https://www.claritx.ai/research"
+  "citation": "ClaritX Research Engine, \"Forward-tested AI stock-selection record\", snapshot 2026-09-24. https://www.claritx.ai/research"
 }

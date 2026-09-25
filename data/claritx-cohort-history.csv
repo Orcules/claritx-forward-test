@@ -1,4 +1,10 @@
 snapshot_date,cohort,cohort_label,holdings,win_rate,mean_return,median_return,mean_alpha,sp500_mean_return,avg_days_held,best_symbol,worst_symbol
+2026-09-24,top_10,Top 10 by peak score,10,0.5,0.0378,0.0199,0.004,0.0338,80,NTRA,ALL
+2026-09-24,top_20,Top 20 by peak score,20,0.35,-0.01,-0.0192,-0.0382,0.0282,81,NTRA,GS
+2026-09-24,top_30,Top 30 by peak score,30,0.3,-0.0375,-0.0482,-0.0633,0.0259,74.2,NTRA,GFS
+2026-09-24,score_90,Score ≥ 90,448,0.3951,-0.0226,-0.0266,-0.0501,0.0275,91.4,VEEV,APP
+2026-09-24,score_92,Score ≥ 92,315,0.3873,-0.0234,-0.0273,-0.0486,0.0252,83.8,VLO,APP
+2026-09-24,score_95,Score ≥ 95,89,0.3483,-0.0215,-0.0395,-0.0401,0.0186,67,NTRA,GFS
 2026-09-23,top_10,Top 10 by peak score,10,0.5,0.0243,0.0172,-0.0103,0.0346,79,NTRA,ALL
 2026-09-23,top_20,Top 20 by peak score,20,0.4,-0.0127,-0.0087,-0.0417,0.029,80,NTRA,ALL
 2026-09-23,top_30,Top 30 by peak score,30,0.3333,-0.0383,-0.0461,-0.065,0.0267,73.2,NTRA,GFS
