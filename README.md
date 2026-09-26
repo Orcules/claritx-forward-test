@@ -46,6 +46,18 @@ minus the S&P 500 total return over the same window.
 Methodology and the live charts: <https://www.claritx.ai/track-record> ·
 <https://www.claritx.ai/ai-rank-report>
 
+## Known gaps
+
+Gaps stay in the history; they are documented here rather than rewritten.
+
+- **2026-09-24** (commit `bc0c3c4`): the nightly run at the source skipped every
+  strategy arm after a database slowdown. The site published a manifest
+  listing only the score-band and cohort-history files, and this archive
+  committed it. The daily and per-arm files in that commit are unchanged
+  from 2026-09-23 — they were not re-published that night. Since then the
+  archive refuses any snapshot that stops listing a file it already holds,
+  and the source serves the last complete snapshot instead of an empty one.
+
 ## How to cite
 
 ClaritX Research Engine, "Forward-tested AI stock-selection record", snapshot

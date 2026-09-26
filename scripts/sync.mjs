@@ -4,13 +4,26 @@
 // an HTML page wearing a .csv name) and carry exactly the row count the
 // manifest promises. A snapshot that fails either test is not committed —
 // the repository keeps the last good one rather than recording a broken night.
-import { mkdir, writeFile } from 'node:fs/promises';
+import { mkdir, readdir, writeFile } from 'node:fs/promises';
 
 const MANIFEST = 'https://www.claritx.ai/data/claritx-evidence.json';
 
 const res = await fetch(MANIFEST);
 if (!res.ok) throw new Error(`manifest ${res.status}`);
 const manifest = await res.json();
+
+// The record only grows. A manifest that stops listing a file this archive
+// already holds is a failed night at the source, not a restatement: on
+// 2026-09-24 the nightly skipped every strategy and the site's manifest
+// dropped the daily and per-arm files. Committing that would record a
+// pipeline failure as if the record had shrunk, so fail loudly instead and
+// keep the last complete snapshot.
+const held = (await readdir('data').catch(() => [])).filter((n) => n.endsWith('.csv'));
+const listed = new Set(manifest.files.map((f) => f.url.split('/').pop()));
+const dropped = held.filter((n) => !listed.has(n));
+if (dropped.length) {
+  throw new Error(`snapshot ${manifest.snapshot_date} no longer lists ${dropped.join(', ')} — refusing to archive a shrunken record`);
+}
 
 const files = [];
 for (const f of manifest.files) {
