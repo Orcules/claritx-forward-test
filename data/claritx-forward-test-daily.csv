@@ -75,6 +75,7 @@ ai_mom_band30,AI band × momentum Top-30,2026-11-06,30,0.9366,0.9932
 ai_mom_band30,AI band × momentum Top-30,2026-11-09,30,0.9662,1.0167
 ai_mom_band30,AI band × momentum Top-30,2026-11-10,30,0.968,1.013
 ai_mom_band30,AI band × momentum Top-30,2026-11-11,30,0.9886,1.0264
+ai_mom_band30,AI band × momentum Top-30,2026-11-12,30,0.9815,1.0228
 band_70_89,AI score band 70–89,2026-05-15,583,0.999,1
 band_70_89,AI score band 70–89,2026-05-18,583,1.0036,0.9993
 band_70_89,AI score band 70–89,2026-05-19,571,0.9969,0.9926
@@ -86,120 +87,121 @@ band_70_89,AI score band 70–89,2026-05-27,567,1.0242,1.0153
 band_70_89,AI score band 70–89,2026-05-28,576,1.0272,1.0209
 band_70_89,AI score band 70–89,2026-05-29,581,1.0295,1.0234
 band_70_89,AI score band 70–89,2026-06-01,586,1.0315,1.0262
-band_70_89,AI score band 70–89,2026-06-02,578,1.036,1.0276
-band_70_89,AI score band 70–89,2026-06-03,577,1.0275,1.0204
-band_70_89,AI score band 70–89,2026-06-04,584,1.0367,1.0242
-band_70_89,AI score band 70–89,2026-06-05,579,1.0193,0.9978
-band_70_89,AI score band 70–89,2026-06-08,577,1.0165,1.0001
-band_70_89,AI score band 70–89,2026-06-09,587,1.0247,0.9971
-band_70_89,AI score band 70–89,2026-06-10,596,1.0111,0.9814
-band_70_89,AI score band 70–89,2026-06-11,582,1.0301,0.9981
-band_70_89,AI score band 70–89,2026-06-12,569,1.0382,1.0035
-band_70_89,AI score band 70–89,2026-06-15,603,1.0437,1.0212
-band_70_89,AI score band 70–89,2026-06-16,592,1.0414,1.0151
-band_70_89,AI score band 70–89,2026-06-17,597,1.0266,1.0024
-band_70_89,AI score band 70–89,2026-06-18,583,1.0297,1.0128
-band_70_89,AI score band 70–89,2026-06-22,591,1.0312,1.0096
-band_70_89,AI score band 70–89,2026-06-23,603,1.0257,0.995
-band_70_89,AI score band 70–89,2026-06-24,590,1.0266,0.9945
-band_70_89,AI score band 70–89,2026-06-25,614,1.0319,0.9959
-band_70_89,AI score band 70–89,2026-06-26,611,1.0355,0.9887
-band_70_89,AI score band 70–89,2026-06-29,584,1.0391,1.005
-band_70_89,AI score band 70–89,2026-06-30,585,1.041,1.0129
-band_70_89,AI score band 70–89,2026-07-01,589,1.0411,1.0115
+band_70_89,AI score band 70–89,2026-06-02,578,1.0361,1.0276
+band_70_89,AI score band 70–89,2026-06-03,577,1.0276,1.0204
+band_70_89,AI score band 70–89,2026-06-04,584,1.0368,1.0242
+band_70_89,AI score band 70–89,2026-06-05,579,1.0194,0.9978
+band_70_89,AI score band 70–89,2026-06-08,577,1.0166,1.0001
+band_70_89,AI score band 70–89,2026-06-09,587,1.0248,0.9971
+band_70_89,AI score band 70–89,2026-06-10,596,1.0112,0.9814
+band_70_89,AI score band 70–89,2026-06-11,582,1.0302,0.9981
+band_70_89,AI score band 70–89,2026-06-12,569,1.0383,1.0035
+band_70_89,AI score band 70–89,2026-06-15,603,1.0438,1.0212
+band_70_89,AI score band 70–89,2026-06-16,592,1.0415,1.0151
+band_70_89,AI score band 70–89,2026-06-17,597,1.0267,1.0024
+band_70_89,AI score band 70–89,2026-06-18,583,1.0298,1.0128
+band_70_89,AI score band 70–89,2026-06-22,591,1.0313,1.0096
+band_70_89,AI score band 70–89,2026-06-23,603,1.0258,0.995
+band_70_89,AI score band 70–89,2026-06-24,590,1.0267,0.9945
+band_70_89,AI score band 70–89,2026-06-25,614,1.032,0.9959
+band_70_89,AI score band 70–89,2026-06-26,611,1.0356,0.9887
+band_70_89,AI score band 70–89,2026-06-29,584,1.0392,1.005
+band_70_89,AI score band 70–89,2026-06-30,585,1.0411,1.0129
+band_70_89,AI score band 70–89,2026-07-01,589,1.0412,1.0115
 band_70_89,AI score band 70–89,2026-07-02,586,1.0484,1.0102
-band_70_89,AI score band 70–89,2026-07-06,580,1.0528,1.019
-band_70_89,AI score band 70–89,2026-07-07,558,1.0503,1.0141
+band_70_89,AI score band 70–89,2026-07-06,580,1.0529,1.019
+band_70_89,AI score band 70–89,2026-07-07,558,1.0504,1.0141
 band_70_89,AI score band 70–89,2026-07-08,568,1.0396,1.011
-band_70_89,AI score band 70–89,2026-07-09,551,1.0464,1.0196
-band_70_89,AI score band 70–89,2026-07-10,565,1.0492,1.024
-band_70_89,AI score band 70–89,2026-07-13,589,1.0478,1.0161
-band_70_89,AI score band 70–89,2026-07-14,589,1.0463,1.0197
-band_70_89,AI score band 70–89,2026-07-15,567,1.0473,1.0238
-band_70_89,AI score band 70–89,2026-07-16,583,1.0537,1.0182
-band_70_89,AI score band 70–89,2026-07-17,571,1.048,1.0081
-band_70_89,AI score band 70–89,2026-07-20,548,1.0415,1.0065
-band_70_89,AI score band 70–89,2026-07-21,550,1.0443,1.0149
-band_70_89,AI score band 70–89,2026-07-22,554,1.0445,1.0137
-band_70_89,AI score band 70–89,2026-07-23,568,1.0404,1.0012
-band_70_89,AI score band 70–89,2026-07-24,573,1.0474,1.0022
-band_70_89,AI score band 70–89,2026-07-27,560,1.0543,1.0024
-band_70_89,AI score band 70–89,2026-07-28,554,1.0636,1.0048
-band_70_89,AI score band 70–89,2026-07-29,559,1.0551,0.9894
-band_70_89,AI score band 70–89,2026-07-30,542,1.058,1.006
-band_70_89,AI score band 70–89,2026-07-31,527,1.0555,1.0132
-band_70_89,AI score band 70–89,2026-08-03,555,1.0636,1.0276
-band_70_89,AI score band 70–89,2026-08-04,558,1.0746,1.0462
-band_70_89,AI score band 70–89,2026-08-05,567,1.0733,1.0441
-band_70_89,AI score band 70–89,2026-08-06,590,1.0705,1.0424
-band_70_89,AI score band 70–89,2026-08-07,584,1.0805,1.0488
-band_70_89,AI score band 70–89,2026-08-10,566,1.081,1.0485
-band_70_89,AI score band 70–89,2026-08-11,565,1.0815,1.0451
-band_70_89,AI score band 70–89,2026-08-12,556,1.0837,1.0477
-band_70_89,AI score band 70–89,2026-08-13,563,1.0883,1.0551
-band_70_89,AI score band 70–89,2026-08-14,566,1.09,1.053
-band_70_89,AI score band 70–89,2026-08-17,567,1.0832,1.048
-band_70_89,AI score band 70–89,2026-08-18,569,1.0742,1.0409
-band_70_89,AI score band 70–89,2026-08-19,561,1.0821,1.0431
-band_70_89,AI score band 70–89,2026-08-20,554,1.075,1.0343
-band_70_89,AI score band 70–89,2026-08-21,556,1.0829,1.0386
-band_70_89,AI score band 70–89,2026-08-24,543,1.0834,1.0355
-band_70_89,AI score band 70–89,2026-08-25,546,1.0849,1.0388
-band_70_89,AI score band 70–89,2026-08-26,532,1.0848,1.039
-band_70_89,AI score band 70–89,2026-08-27,547,1.084,1.0459
-band_70_89,AI score band 70–89,2026-08-28,549,1.0783,1.0435
-band_70_89,AI score band 70–89,2026-08-31,545,1.0722,1.0404
-band_70_89,AI score band 70–89,2026-09-01,544,1.0632,1.0332
-band_70_89,AI score band 70–89,2026-09-02,533,1.07,1.0378
-band_70_89,AI score band 70–89,2026-09-03,524,1.0797,1.0487
-band_70_89,AI score band 70–89,2026-09-04,518,1.0749,1.0446
+band_70_89,AI score band 70–89,2026-07-09,551,1.0465,1.0196
+band_70_89,AI score band 70–89,2026-07-10,565,1.0493,1.024
+band_70_89,AI score band 70–89,2026-07-13,589,1.0479,1.0161
+band_70_89,AI score band 70–89,2026-07-14,589,1.0464,1.0197
+band_70_89,AI score band 70–89,2026-07-15,567,1.0474,1.0238
+band_70_89,AI score band 70–89,2026-07-16,583,1.0538,1.0182
+band_70_89,AI score band 70–89,2026-07-17,571,1.0481,1.0081
+band_70_89,AI score band 70–89,2026-07-20,548,1.0416,1.0065
+band_70_89,AI score band 70–89,2026-07-21,550,1.0444,1.0149
+band_70_89,AI score band 70–89,2026-07-22,554,1.0446,1.0137
+band_70_89,AI score band 70–89,2026-07-23,568,1.0405,1.0012
+band_70_89,AI score band 70–89,2026-07-24,573,1.0475,1.0022
+band_70_89,AI score band 70–89,2026-07-27,560,1.0544,1.0024
+band_70_89,AI score band 70–89,2026-07-28,554,1.0637,1.0048
+band_70_89,AI score band 70–89,2026-07-29,559,1.0552,0.9894
+band_70_89,AI score band 70–89,2026-07-30,542,1.0581,1.006
+band_70_89,AI score band 70–89,2026-07-31,527,1.0556,1.0132
+band_70_89,AI score band 70–89,2026-08-03,555,1.0637,1.0276
+band_70_89,AI score band 70–89,2026-08-04,558,1.0747,1.0462
+band_70_89,AI score band 70–89,2026-08-05,567,1.0734,1.0441
+band_70_89,AI score band 70–89,2026-08-06,590,1.0706,1.0424
+band_70_89,AI score band 70–89,2026-08-07,584,1.0806,1.0488
+band_70_89,AI score band 70–89,2026-08-10,566,1.0811,1.0485
+band_70_89,AI score band 70–89,2026-08-11,565,1.0816,1.0451
+band_70_89,AI score band 70–89,2026-08-12,556,1.0838,1.0477
+band_70_89,AI score band 70–89,2026-08-13,563,1.0884,1.0551
+band_70_89,AI score band 70–89,2026-08-14,566,1.0901,1.053
+band_70_89,AI score band 70–89,2026-08-17,567,1.0833,1.048
+band_70_89,AI score band 70–89,2026-08-18,569,1.0743,1.0409
+band_70_89,AI score band 70–89,2026-08-19,561,1.0822,1.0431
+band_70_89,AI score band 70–89,2026-08-20,554,1.0751,1.0343
+band_70_89,AI score band 70–89,2026-08-21,556,1.083,1.0386
+band_70_89,AI score band 70–89,2026-08-24,543,1.0835,1.0355
+band_70_89,AI score band 70–89,2026-08-25,546,1.085,1.0388
+band_70_89,AI score band 70–89,2026-08-26,532,1.0849,1.039
+band_70_89,AI score band 70–89,2026-08-27,547,1.0841,1.0459
+band_70_89,AI score band 70–89,2026-08-28,549,1.0784,1.0435
+band_70_89,AI score band 70–89,2026-08-31,545,1.0723,1.0404
+band_70_89,AI score band 70–89,2026-09-01,544,1.0633,1.0332
+band_70_89,AI score band 70–89,2026-09-02,533,1.0701,1.0378
+band_70_89,AI score band 70–89,2026-09-03,524,1.0798,1.0487
+band_70_89,AI score band 70–89,2026-09-04,518,1.075,1.0446
 band_70_89,AI score band 70–89,2026-09-08,523,1.0653,1.0389
-band_70_89,AI score band 70–89,2026-09-09,538,1.0568,1.0341
-band_70_89,AI score band 70–89,2026-09-10,558,1.048,1.0279
-band_70_89,AI score band 70–89,2026-09-11,554,1.0562,1.0366
-band_70_89,AI score band 70–89,2026-09-14,538,1.0551,1.032
-band_70_89,AI score band 70–89,2026-09-15,555,1.0498,1.0273
-band_70_89,AI score band 70–89,2026-09-16,542,1.042,1.0227
-band_70_89,AI score band 70–89,2026-09-17,540,1.0489,1.0343
-band_70_89,AI score band 70–89,2026-09-18,550,1.0426,1.0357
-band_70_89,AI score band 70–89,2026-09-21,546,1.0465,1.0517
-band_70_89,AI score band 70–89,2026-09-22,562,1.047,1.0515
-band_70_89,AI score band 70–89,2026-09-23,571,1.0379,1.044
-band_70_89,AI score band 70–89,2026-09-24,569,1.0328,1.0431
-band_70_89,AI score band 70–89,2026-09-25,562,1.0368,1.0488
-band_70_89,AI score band 70–89,2026-09-28,557,1.0285,1.041
-band_70_89,AI score band 70–89,2026-09-29,552,1.0266,1.0391
-band_70_89,AI score band 70–89,2026-09-30,550,1.0202,1.0369
-band_70_89,AI score band 70–89,2026-10-01,546,1.024,1.0388
-band_70_89,AI score band 70–89,2026-10-02,551,1.0291,1.0465
+band_70_89,AI score band 70–89,2026-09-09,538,1.0569,1.0341
+band_70_89,AI score band 70–89,2026-09-10,558,1.0481,1.0279
+band_70_89,AI score band 70–89,2026-09-11,554,1.0563,1.0366
+band_70_89,AI score band 70–89,2026-09-14,538,1.0552,1.032
+band_70_89,AI score band 70–89,2026-09-15,555,1.0499,1.0273
+band_70_89,AI score band 70–89,2026-09-16,542,1.0421,1.0227
+band_70_89,AI score band 70–89,2026-09-17,540,1.049,1.0343
+band_70_89,AI score band 70–89,2026-09-18,550,1.0427,1.0357
+band_70_89,AI score band 70–89,2026-09-21,546,1.0466,1.0517
+band_70_89,AI score band 70–89,2026-09-22,562,1.0471,1.0515
+band_70_89,AI score band 70–89,2026-09-23,571,1.038,1.044
+band_70_89,AI score band 70–89,2026-09-24,569,1.0329,1.0431
+band_70_89,AI score band 70–89,2026-09-25,562,1.0369,1.0488
+band_70_89,AI score band 70–89,2026-09-28,557,1.0286,1.041
+band_70_89,AI score band 70–89,2026-09-29,552,1.0267,1.0391
+band_70_89,AI score band 70–89,2026-09-30,550,1.0203,1.0369
+band_70_89,AI score band 70–89,2026-10-01,546,1.0241,1.0388
+band_70_89,AI score band 70–89,2026-10-02,551,1.0292,1.0465
 band_70_89,AI score band 70–89,2026-10-05,539,1.036,1.0535
-band_70_89,AI score band 70–89,2026-10-06,549,1.0411,1.0593
-band_70_89,AI score band 70–89,2026-10-07,542,1.0299,1.0568
-band_70_89,AI score band 70–89,2026-10-08,548,1.034,1.0523
-band_70_89,AI score band 70–89,2026-10-09,552,1.0395,1.0586
-band_70_89,AI score band 70–89,2026-10-12,550,1.0396,1.058
-band_70_89,AI score band 70–89,2026-10-13,548,1.0393,1.0578
-band_70_89,AI score band 70–89,2026-10-14,536,1.0306,1.0464
-band_70_89,AI score band 70–89,2026-10-15,60,1.0372,1.0494
-band_70_89,AI score band 70–89,2026-10-16,59,1.0341,1.0378
-band_70_89,AI score band 70–89,2026-10-19,64,1.0288,1.0422
-band_70_89,AI score band 70–89,2026-10-20,74,1.0367,1.0457
-band_70_89,AI score band 70–89,2026-10-21,88,1.0336,1.0512
-band_70_89,AI score band 70–89,2026-10-22,83,1.0419,1.0387
-band_70_89,AI score band 70–89,2026-10-23,86,1.0362,1.0333
-band_70_89,AI score band 70–89,2026-10-26,86,1.0333,1.0407
+band_70_89,AI score band 70–89,2026-10-06,549,1.0412,1.0593
+band_70_89,AI score band 70–89,2026-10-07,542,1.03,1.0568
+band_70_89,AI score band 70–89,2026-10-08,548,1.0341,1.0523
+band_70_89,AI score band 70–89,2026-10-09,552,1.0396,1.0586
+band_70_89,AI score band 70–89,2026-10-12,550,1.0397,1.058
+band_70_89,AI score band 70–89,2026-10-13,548,1.0394,1.0578
+band_70_89,AI score band 70–89,2026-10-14,536,1.0307,1.0464
+band_70_89,AI score band 70–89,2026-10-15,60,1.0373,1.0494
+band_70_89,AI score band 70–89,2026-10-16,59,1.0342,1.0378
+band_70_89,AI score band 70–89,2026-10-19,64,1.0289,1.0422
+band_70_89,AI score band 70–89,2026-10-20,74,1.0368,1.0457
+band_70_89,AI score band 70–89,2026-10-21,88,1.0337,1.0512
+band_70_89,AI score band 70–89,2026-10-22,83,1.042,1.0387
+band_70_89,AI score band 70–89,2026-10-23,86,1.0363,1.0333
+band_70_89,AI score band 70–89,2026-10-26,86,1.0334,1.0407
 band_70_89,AI score band 70–89,2026-10-27,77,1.0298,1.0465
-band_70_89,AI score band 70–89,2026-10-28,67,1.0319,1.0501
-band_70_89,AI score band 70–89,2026-10-29,69,1.0309,1.0461
-band_70_89,AI score band 70–89,2026-10-30,67,1.0295,1.0275
-band_70_89,AI score band 70–89,2026-11-02,69,1.0245,1.0226
-band_70_89,AI score band 70–89,2026-11-03,44,1.0209,1.0257
-band_70_89,AI score band 70–89,2026-11-04,52,1.0378,1.0426
-band_70_89,AI score band 70–89,2026-11-05,54,1.0137,0.9966
-band_70_89,AI score band 70–89,2026-11-06,66,1.013,0.9998
-band_70_89,AI score band 70–89,2026-11-09,70,1.0311,1.0234
-band_70_89,AI score band 70–89,2026-11-10,69,1.0281,1.0197
-band_70_89,AI score band 70–89,2026-11-11,61,1.0371,1.0331
+band_70_89,AI score band 70–89,2026-10-28,67,1.032,1.0501
+band_70_89,AI score band 70–89,2026-10-29,69,1.031,1.0461
+band_70_89,AI score band 70–89,2026-10-30,67,1.0296,1.0275
+band_70_89,AI score band 70–89,2026-11-02,69,1.0246,1.0226
+band_70_89,AI score band 70–89,2026-11-03,44,1.021,1.0257
+band_70_89,AI score band 70–89,2026-11-04,52,1.0379,1.0426
+band_70_89,AI score band 70–89,2026-11-05,54,1.0138,0.9966
+band_70_89,AI score band 70–89,2026-11-06,66,1.0131,0.9998
+band_70_89,AI score band 70–89,2026-11-09,71,1.0311,1.0234
+band_70_89,AI score band 70–89,2026-11-10,69,1.028,1.0197
+band_70_89,AI score band 70–89,2026-11-11,61,1.037,1.0331
+band_70_89,AI score band 70–89,2026-11-12,52,1.0296,1.0294
 band_hyst,AI band + hysteresis,2026-05-15,555,0.999,1
 band_hyst,AI band + hysteresis,2026-05-18,555,1.0031,0.9993
 band_hyst,AI band + hysteresis,2026-05-19,587,0.9965,0.9926
@@ -212,119 +214,120 @@ band_hyst,AI band + hysteresis,2026-05-28,621,1.0264,1.0209
 band_hyst,AI band + hysteresis,2026-05-29,624,1.0294,1.0234
 band_hyst,AI band + hysteresis,2026-06-01,623,1.031,1.0262
 band_hyst,AI band + hysteresis,2026-06-02,620,1.0365,1.0276
-band_hyst,AI band + hysteresis,2026-06-03,627,1.0282,1.0204
-band_hyst,AI band + hysteresis,2026-06-04,629,1.0377,1.0242
+band_hyst,AI band + hysteresis,2026-06-03,627,1.0283,1.0204
+band_hyst,AI band + hysteresis,2026-06-04,629,1.0378,1.0242
 band_hyst,AI band + hysteresis,2026-06-05,626,1.0203,0.9978
-band_hyst,AI band + hysteresis,2026-06-08,615,1.018,1.0001
+band_hyst,AI band + hysteresis,2026-06-08,615,1.0181,1.0001
 band_hyst,AI band + hysteresis,2026-06-09,625,1.0255,0.9971
-band_hyst,AI band + hysteresis,2026-06-10,631,1.0118,0.9814
-band_hyst,AI band + hysteresis,2026-06-11,628,1.0307,0.9981
+band_hyst,AI band + hysteresis,2026-06-10,631,1.0119,0.9814
+band_hyst,AI band + hysteresis,2026-06-11,628,1.0308,0.9981
 band_hyst,AI band + hysteresis,2026-06-12,622,1.0395,1.0035
-band_hyst,AI band + hysteresis,2026-06-15,637,1.0445,1.0212
-band_hyst,AI band + hysteresis,2026-06-16,626,1.0427,1.0151
-band_hyst,AI band + hysteresis,2026-06-17,631,1.0282,1.0024
-band_hyst,AI band + hysteresis,2026-06-18,630,1.0308,1.0128
-band_hyst,AI band + hysteresis,2026-06-22,636,1.0325,1.0096
-band_hyst,AI band + hysteresis,2026-06-23,648,1.0268,0.995
-band_hyst,AI band + hysteresis,2026-06-24,645,1.0277,0.9945
-band_hyst,AI band + hysteresis,2026-06-25,654,1.0331,0.9959
-band_hyst,AI band + hysteresis,2026-06-26,661,1.0361,0.9887
-band_hyst,AI band + hysteresis,2026-06-29,651,1.0391,1.005
-band_hyst,AI band + hysteresis,2026-06-30,643,1.0406,1.0129
-band_hyst,AI band + hysteresis,2026-07-01,642,1.0405,1.0115
-band_hyst,AI band + hysteresis,2026-07-02,637,1.0485,1.0102
-band_hyst,AI band + hysteresis,2026-07-06,635,1.0523,1.019
-band_hyst,AI band + hysteresis,2026-07-07,626,1.0493,1.0141
-band_hyst,AI band + hysteresis,2026-07-08,622,1.0387,1.011
-band_hyst,AI band + hysteresis,2026-07-09,604,1.0456,1.0196
-band_hyst,AI band + hysteresis,2026-07-10,617,1.0487,1.024
-band_hyst,AI band + hysteresis,2026-07-13,628,1.0471,1.0161
-band_hyst,AI band + hysteresis,2026-07-14,628,1.0459,1.0197
+band_hyst,AI band + hysteresis,2026-06-15,637,1.0446,1.0212
+band_hyst,AI band + hysteresis,2026-06-16,626,1.0428,1.0151
+band_hyst,AI band + hysteresis,2026-06-17,631,1.0283,1.0024
+band_hyst,AI band + hysteresis,2026-06-18,630,1.0309,1.0128
+band_hyst,AI band + hysteresis,2026-06-22,636,1.0326,1.0096
+band_hyst,AI band + hysteresis,2026-06-23,648,1.0269,0.995
+band_hyst,AI band + hysteresis,2026-06-24,645,1.0278,0.9945
+band_hyst,AI band + hysteresis,2026-06-25,654,1.0332,0.9959
+band_hyst,AI band + hysteresis,2026-06-26,661,1.0362,0.9887
+band_hyst,AI band + hysteresis,2026-06-29,651,1.0392,1.005
+band_hyst,AI band + hysteresis,2026-06-30,643,1.0407,1.0129
+band_hyst,AI band + hysteresis,2026-07-01,642,1.0406,1.0115
+band_hyst,AI band + hysteresis,2026-07-02,637,1.0486,1.0102
+band_hyst,AI band + hysteresis,2026-07-06,635,1.0524,1.019
+band_hyst,AI band + hysteresis,2026-07-07,626,1.0494,1.0141
+band_hyst,AI band + hysteresis,2026-07-08,622,1.0388,1.011
+band_hyst,AI band + hysteresis,2026-07-09,604,1.0457,1.0196
+band_hyst,AI band + hysteresis,2026-07-10,617,1.0488,1.024
+band_hyst,AI band + hysteresis,2026-07-13,628,1.0472,1.0161
+band_hyst,AI band + hysteresis,2026-07-14,628,1.046,1.0197
 band_hyst,AI band + hysteresis,2026-07-15,631,1.0459,1.0238
-band_hyst,AI band + hysteresis,2026-07-16,638,1.0515,1.0182
-band_hyst,AI band + hysteresis,2026-07-17,635,1.0452,1.0081
-band_hyst,AI band + hysteresis,2026-07-20,619,1.039,1.0065
-band_hyst,AI band + hysteresis,2026-07-21,609,1.0423,1.0149
-band_hyst,AI band + hysteresis,2026-07-22,610,1.0428,1.0137
-band_hyst,AI band + hysteresis,2026-07-23,614,1.0389,1.0012
-band_hyst,AI band + hysteresis,2026-07-24,625,1.0458,1.0022
-band_hyst,AI band + hysteresis,2026-07-27,608,1.0528,1.0024
-band_hyst,AI band + hysteresis,2026-07-28,602,1.0612,1.0048
-band_hyst,AI band + hysteresis,2026-07-29,603,1.0525,0.9894
-band_hyst,AI band + hysteresis,2026-07-30,598,1.057,1.006
-band_hyst,AI band + hysteresis,2026-07-31,582,1.0541,1.0132
-band_hyst,AI band + hysteresis,2026-08-03,589,1.0621,1.0276
-band_hyst,AI band + hysteresis,2026-08-04,586,1.0732,1.0462
-band_hyst,AI band + hysteresis,2026-08-05,604,1.0721,1.0441
-band_hyst,AI band + hysteresis,2026-08-06,614,1.0697,1.0424
-band_hyst,AI band + hysteresis,2026-08-07,624,1.0796,1.0488
-band_hyst,AI band + hysteresis,2026-08-10,627,1.0804,1.0485
-band_hyst,AI band + hysteresis,2026-08-11,630,1.0808,1.0451
-band_hyst,AI band + hysteresis,2026-08-12,619,1.0832,1.0477
+band_hyst,AI band + hysteresis,2026-07-16,638,1.0516,1.0182
+band_hyst,AI band + hysteresis,2026-07-17,635,1.0453,1.0081
+band_hyst,AI band + hysteresis,2026-07-20,619,1.0391,1.0065
+band_hyst,AI band + hysteresis,2026-07-21,609,1.0424,1.0149
+band_hyst,AI band + hysteresis,2026-07-22,610,1.0429,1.0137
+band_hyst,AI band + hysteresis,2026-07-23,614,1.039,1.0012
+band_hyst,AI band + hysteresis,2026-07-24,625,1.0459,1.0022
+band_hyst,AI band + hysteresis,2026-07-27,608,1.0529,1.0024
+band_hyst,AI band + hysteresis,2026-07-28,602,1.0613,1.0048
+band_hyst,AI band + hysteresis,2026-07-29,603,1.0526,0.9894
+band_hyst,AI band + hysteresis,2026-07-30,598,1.0571,1.006
+band_hyst,AI band + hysteresis,2026-07-31,582,1.0542,1.0132
+band_hyst,AI band + hysteresis,2026-08-03,589,1.0622,1.0276
+band_hyst,AI band + hysteresis,2026-08-04,586,1.0733,1.0462
+band_hyst,AI band + hysteresis,2026-08-05,604,1.0722,1.0441
+band_hyst,AI band + hysteresis,2026-08-06,614,1.0698,1.0424
+band_hyst,AI band + hysteresis,2026-08-07,624,1.0797,1.0488
+band_hyst,AI band + hysteresis,2026-08-10,627,1.0805,1.0485
+band_hyst,AI band + hysteresis,2026-08-11,630,1.0809,1.0451
+band_hyst,AI band + hysteresis,2026-08-12,619,1.0833,1.0477
 band_hyst,AI band + hysteresis,2026-08-13,623,1.088,1.0551
-band_hyst,AI band + hysteresis,2026-08-14,628,1.0901,1.053
-band_hyst,AI band + hysteresis,2026-08-17,628,1.0834,1.048
-band_hyst,AI band + hysteresis,2026-08-18,627,1.0751,1.0409
-band_hyst,AI band + hysteresis,2026-08-19,618,1.0829,1.0431
-band_hyst,AI band + hysteresis,2026-08-20,614,1.0758,1.0343
-band_hyst,AI band + hysteresis,2026-08-21,607,1.0841,1.0386
-band_hyst,AI band + hysteresis,2026-08-24,608,1.0838,1.0355
-band_hyst,AI band + hysteresis,2026-08-25,607,1.0853,1.0388
-band_hyst,AI band + hysteresis,2026-08-26,604,1.0849,1.039
-band_hyst,AI band + hysteresis,2026-08-27,608,1.0839,1.0459
-band_hyst,AI band + hysteresis,2026-08-28,600,1.0787,1.0435
+band_hyst,AI band + hysteresis,2026-08-14,628,1.0902,1.053
+band_hyst,AI band + hysteresis,2026-08-17,628,1.0835,1.048
+band_hyst,AI band + hysteresis,2026-08-18,627,1.0752,1.0409
+band_hyst,AI band + hysteresis,2026-08-19,618,1.083,1.0431
+band_hyst,AI band + hysteresis,2026-08-20,614,1.0759,1.0343
+band_hyst,AI band + hysteresis,2026-08-21,607,1.0842,1.0386
+band_hyst,AI band + hysteresis,2026-08-24,608,1.0839,1.0355
+band_hyst,AI band + hysteresis,2026-08-25,607,1.0854,1.0388
+band_hyst,AI band + hysteresis,2026-08-26,604,1.085,1.039
+band_hyst,AI band + hysteresis,2026-08-27,608,1.084,1.0459
+band_hyst,AI band + hysteresis,2026-08-28,600,1.0788,1.0435
 band_hyst,AI band + hysteresis,2026-08-31,601,1.073,1.0404
-band_hyst,AI band + hysteresis,2026-09-01,598,1.0639,1.0332
-band_hyst,AI band + hysteresis,2026-09-02,595,1.0703,1.0378
-band_hyst,AI band + hysteresis,2026-09-03,591,1.0802,1.0487
-band_hyst,AI band + hysteresis,2026-09-04,584,1.0754,1.0446
-band_hyst,AI band + hysteresis,2026-09-08,583,1.0655,1.0389
-band_hyst,AI band + hysteresis,2026-09-09,585,1.0569,1.0341
-band_hyst,AI band + hysteresis,2026-09-10,592,1.0487,1.0279
-band_hyst,AI band + hysteresis,2026-09-11,588,1.0565,1.0366
+band_hyst,AI band + hysteresis,2026-09-01,598,1.064,1.0332
+band_hyst,AI band + hysteresis,2026-09-02,595,1.0704,1.0378
+band_hyst,AI band + hysteresis,2026-09-03,591,1.0803,1.0487
+band_hyst,AI band + hysteresis,2026-09-04,584,1.0755,1.0446
+band_hyst,AI band + hysteresis,2026-09-08,583,1.0656,1.0389
+band_hyst,AI band + hysteresis,2026-09-09,585,1.057,1.0341
+band_hyst,AI band + hysteresis,2026-09-10,592,1.0488,1.0279
+band_hyst,AI band + hysteresis,2026-09-11,588,1.0566,1.0366
 band_hyst,AI band + hysteresis,2026-09-14,586,1.0552,1.032
-band_hyst,AI band + hysteresis,2026-09-15,595,1.0497,1.0273
-band_hyst,AI band + hysteresis,2026-09-16,598,1.0418,1.0227
+band_hyst,AI band + hysteresis,2026-09-15,595,1.0498,1.0273
+band_hyst,AI band + hysteresis,2026-09-16,598,1.0419,1.0227
 band_hyst,AI band + hysteresis,2026-09-17,583,1.0487,1.0343
-band_hyst,AI band + hysteresis,2026-09-18,585,1.043,1.0357
-band_hyst,AI band + hysteresis,2026-09-21,590,1.0475,1.0517
-band_hyst,AI band + hysteresis,2026-09-22,595,1.0476,1.0515
-band_hyst,AI band + hysteresis,2026-09-23,600,1.0383,1.044
-band_hyst,AI band + hysteresis,2026-09-24,608,1.0331,1.0431
-band_hyst,AI band + hysteresis,2026-09-25,608,1.037,1.0488
+band_hyst,AI band + hysteresis,2026-09-18,585,1.0431,1.0357
+band_hyst,AI band + hysteresis,2026-09-21,590,1.0476,1.0517
+band_hyst,AI band + hysteresis,2026-09-22,595,1.0477,1.0515
+band_hyst,AI band + hysteresis,2026-09-23,600,1.0384,1.044
+band_hyst,AI band + hysteresis,2026-09-24,608,1.0332,1.0431
+band_hyst,AI band + hysteresis,2026-09-25,608,1.0371,1.0488
 band_hyst,AI band + hysteresis,2026-09-28,600,1.0288,1.041
-band_hyst,AI band + hysteresis,2026-09-29,599,1.0271,1.0391
-band_hyst,AI band + hysteresis,2026-09-30,590,1.0205,1.0369
+band_hyst,AI band + hysteresis,2026-09-29,599,1.0272,1.0391
+band_hyst,AI band + hysteresis,2026-09-30,590,1.0206,1.0369
 band_hyst,AI band + hysteresis,2026-10-01,592,1.0244,1.0388
 band_hyst,AI band + hysteresis,2026-10-02,595,1.03,1.0465
-band_hyst,AI band + hysteresis,2026-10-05,588,1.0374,1.0535
-band_hyst,AI band + hysteresis,2026-10-06,588,1.0423,1.0593
-band_hyst,AI band + hysteresis,2026-10-07,580,1.0312,1.0568
-band_hyst,AI band + hysteresis,2026-10-08,580,1.0356,1.0523
-band_hyst,AI band + hysteresis,2026-10-09,584,1.041,1.0586
-band_hyst,AI band + hysteresis,2026-10-12,582,1.0413,1.058
-band_hyst,AI band + hysteresis,2026-10-13,584,1.0412,1.0578
-band_hyst,AI band + hysteresis,2026-10-14,570,1.0325,1.0464
-band_hyst,AI band + hysteresis,2026-10-15,65,1.0393,1.0494
+band_hyst,AI band + hysteresis,2026-10-05,588,1.0375,1.0535
+band_hyst,AI band + hysteresis,2026-10-06,588,1.0424,1.0593
+band_hyst,AI band + hysteresis,2026-10-07,580,1.0313,1.0568
+band_hyst,AI band + hysteresis,2026-10-08,580,1.0357,1.0523
+band_hyst,AI band + hysteresis,2026-10-09,584,1.0411,1.0586
+band_hyst,AI band + hysteresis,2026-10-12,582,1.0414,1.058
+band_hyst,AI band + hysteresis,2026-10-13,584,1.0413,1.0578
+band_hyst,AI band + hysteresis,2026-10-14,570,1.0326,1.0464
+band_hyst,AI band + hysteresis,2026-10-15,65,1.0394,1.0494
 band_hyst,AI band + hysteresis,2026-10-16,64,1.0366,1.0378
-band_hyst,AI band + hysteresis,2026-10-19,69,1.0316,1.0422
-band_hyst,AI band + hysteresis,2026-10-20,72,1.0395,1.0457
-band_hyst,AI band + hysteresis,2026-10-21,83,1.0367,1.0512
-band_hyst,AI band + hysteresis,2026-10-22,78,1.0452,1.0387
-band_hyst,AI band + hysteresis,2026-10-23,81,1.0393,1.0333
-band_hyst,AI band + hysteresis,2026-10-26,81,1.0362,1.0407
-band_hyst,AI band + hysteresis,2026-10-27,75,1.0318,1.0465
-band_hyst,AI band + hysteresis,2026-10-28,64,1.0342,1.0501
+band_hyst,AI band + hysteresis,2026-10-19,69,1.0317,1.0422
+band_hyst,AI band + hysteresis,2026-10-20,72,1.0396,1.0457
+band_hyst,AI band + hysteresis,2026-10-21,83,1.0368,1.0512
+band_hyst,AI band + hysteresis,2026-10-22,78,1.0453,1.0387
+band_hyst,AI band + hysteresis,2026-10-23,81,1.0394,1.0333
+band_hyst,AI band + hysteresis,2026-10-26,81,1.0363,1.0407
+band_hyst,AI band + hysteresis,2026-10-27,75,1.0319,1.0465
+band_hyst,AI band + hysteresis,2026-10-28,64,1.0343,1.0501
 band_hyst,AI band + hysteresis,2026-10-29,66,1.033,1.0461
-band_hyst,AI band + hysteresis,2026-10-30,64,1.0326,1.0275
-band_hyst,AI band + hysteresis,2026-11-02,65,1.0279,1.0226
-band_hyst,AI band + hysteresis,2026-11-03,42,1.0235,1.0257
-band_hyst,AI band + hysteresis,2026-11-04,49,1.0388,1.0426
+band_hyst,AI band + hysteresis,2026-10-30,64,1.0327,1.0275
+band_hyst,AI band + hysteresis,2026-11-02,65,1.028,1.0226
+band_hyst,AI band + hysteresis,2026-11-03,42,1.0236,1.0257
+band_hyst,AI band + hysteresis,2026-11-04,49,1.0389,1.0426
 band_hyst,AI band + hysteresis,2026-11-05,51,1.0135,0.9966
-band_hyst,AI band + hysteresis,2026-11-06,64,1.0129,0.9998
-band_hyst,AI band + hysteresis,2026-11-09,69,1.0309,1.0234
-band_hyst,AI band + hysteresis,2026-11-10,66,1.0288,1.0197
-band_hyst,AI band + hysteresis,2026-11-11,60,1.0387,1.0331
+band_hyst,AI band + hysteresis,2026-11-06,64,1.013,0.9998
+band_hyst,AI band + hysteresis,2026-11-09,70,1.0308,1.0234
+band_hyst,AI band + hysteresis,2026-11-10,66,1.0287,1.0197
+band_hyst,AI band + hysteresis,2026-11-11,60,1.0386,1.0331
+band_hyst,AI band + hysteresis,2026-11-12,51,1.0316,1.0294
 band_pct,AI band percentile,2026-05-15,270,0.999,1
 band_pct,AI band percentile,2026-05-18,270,1.0043,0.9993
 band_pct,AI band percentile,2026-05-19,239,0.9957,0.9926
@@ -450,6 +453,7 @@ band_pct,AI band percentile,2026-11-06,34,0.9677,0.9998
 band_pct,AI band percentile,2026-11-09,35,0.9923,1.0234
 band_pct,AI band percentile,2026-11-10,37,0.9887,1.0197
 band_pct,AI band percentile,2026-11-11,35,0.9942,1.0331
+band_pct,AI band percentile,2026-11-12,31,0.9853,1.0294
 band_room,AI band + valuation room,2026-05-15,231,0.999,1
 band_room,AI band + valuation room,2026-05-18,231,1.0117,0.9993
 band_room,AI band + valuation room,2026-05-19,243,1.0024,0.9926
@@ -461,120 +465,121 @@ band_room,AI band + valuation room,2026-05-27,241,1.029,1.0153
 band_room,AI band + valuation room,2026-05-28,231,1.0399,1.0209
 band_room,AI band + valuation room,2026-05-29,241,1.047,1.0234
 band_room,AI band + valuation room,2026-06-01,247,1.0516,1.0262
-band_room,AI band + valuation room,2026-06-02,250,1.0459,1.0276
-band_room,AI band + valuation room,2026-06-03,249,1.0296,1.0204
-band_room,AI band + valuation room,2026-06-04,241,1.0438,1.0242
-band_room,AI band + valuation room,2026-06-05,247,1.0299,0.9978
-band_room,AI band + valuation room,2026-06-08,245,1.0232,1.0001
-band_room,AI band + valuation room,2026-06-09,273,1.0308,0.9971
-band_room,AI band + valuation room,2026-06-10,265,1.0149,0.9814
-band_room,AI band + valuation room,2026-06-11,255,1.0302,0.9981
-band_room,AI band + valuation room,2026-06-12,277,1.0375,1.0035
-band_room,AI band + valuation room,2026-06-15,263,1.0452,1.0212
-band_room,AI band + valuation room,2026-06-16,251,1.0455,1.0151
-band_room,AI band + valuation room,2026-06-17,251,1.0247,1.0024
-band_room,AI band + valuation room,2026-06-18,244,1.0216,1.0128
-band_room,AI band + valuation room,2026-06-22,259,1.0152,1.0096
-band_room,AI band + valuation room,2026-06-23,264,1.0152,0.995
-band_room,AI band + valuation room,2026-06-24,260,1.0168,0.9945
-band_room,AI band + valuation room,2026-06-25,280,1.0149,0.9959
-band_room,AI band + valuation room,2026-06-26,267,1.0277,0.9887
-band_room,AI band + valuation room,2026-06-29,256,1.0283,1.005
-band_room,AI band + valuation room,2026-06-30,261,1.029,1.0129
-band_room,AI band + valuation room,2026-07-01,270,1.0379,1.0115
-band_room,AI band + valuation room,2026-07-02,249,1.0554,1.0102
-band_room,AI band + valuation room,2026-07-06,270,1.0595,1.019
-band_room,AI band + valuation room,2026-07-07,261,1.0582,1.0141
-band_room,AI band + valuation room,2026-07-08,262,1.0491,1.011
-band_room,AI band + valuation room,2026-07-09,257,1.0576,1.0196
-band_room,AI band + valuation room,2026-07-10,266,1.0617,1.024
-band_room,AI band + valuation room,2026-07-13,277,1.0601,1.0161
-band_room,AI band + valuation room,2026-07-14,273,1.0558,1.0197
-band_room,AI band + valuation room,2026-07-15,257,1.0576,1.0238
-band_room,AI band + valuation room,2026-07-16,264,1.0636,1.0182
-band_room,AI band + valuation room,2026-07-17,254,1.0547,1.0081
-band_room,AI band + valuation room,2026-07-20,239,1.0506,1.0065
-band_room,AI band + valuation room,2026-07-21,241,1.0523,1.0149
-band_room,AI band + valuation room,2026-07-22,247,1.0494,1.0137
-band_room,AI band + valuation room,2026-07-23,251,1.0435,1.0012
-band_room,AI band + valuation room,2026-07-24,255,1.051,1.0022
-band_room,AI band + valuation room,2026-07-27,249,1.0672,1.0024
-band_room,AI band + valuation room,2026-07-28,238,1.0808,1.0048
-band_room,AI band + valuation room,2026-07-29,235,1.0733,0.9894
-band_room,AI band + valuation room,2026-07-30,212,1.0786,1.006
-band_room,AI band + valuation room,2026-07-31,211,1.0778,1.0132
-band_room,AI band + valuation room,2026-08-03,221,1.0934,1.0276
-band_room,AI band + valuation room,2026-08-04,222,1.1117,1.0462
-band_room,AI band + valuation room,2026-08-05,217,1.1085,1.0441
-band_room,AI band + valuation room,2026-08-06,216,1.1064,1.0424
-band_room,AI band + valuation room,2026-08-07,223,1.1246,1.0488
-band_room,AI band + valuation room,2026-08-10,215,1.1259,1.0485
-band_room,AI band + valuation room,2026-08-11,208,1.1273,1.0451
-band_room,AI band + valuation room,2026-08-12,212,1.1297,1.0477
-band_room,AI band + valuation room,2026-08-13,212,1.1379,1.0551
-band_room,AI band + valuation room,2026-08-14,214,1.1414,1.053
-band_room,AI band + valuation room,2026-08-17,210,1.1362,1.048
-band_room,AI band + valuation room,2026-08-18,214,1.1209,1.0409
-band_room,AI band + valuation room,2026-08-19,218,1.1448,1.0431
-band_room,AI band + valuation room,2026-08-20,217,1.1376,1.0343
-band_room,AI band + valuation room,2026-08-21,213,1.1475,1.0386
-band_room,AI band + valuation room,2026-08-24,211,1.1433,1.0355
-band_room,AI band + valuation room,2026-08-25,211,1.1481,1.0388
-band_room,AI band + valuation room,2026-08-26,200,1.1462,1.039
-band_room,AI band + valuation room,2026-08-27,206,1.1534,1.0459
-band_room,AI band + valuation room,2026-08-28,209,1.1453,1.0435
-band_room,AI band + valuation room,2026-08-31,208,1.1391,1.0404
-band_room,AI band + valuation room,2026-09-01,211,1.1238,1.0332
-band_room,AI band + valuation room,2026-09-02,212,1.1304,1.0378
-band_room,AI band + valuation room,2026-09-03,210,1.1432,1.0487
-band_room,AI band + valuation room,2026-09-04,205,1.139,1.0446
-band_room,AI band + valuation room,2026-09-08,198,1.1283,1.0389
-band_room,AI band + valuation room,2026-09-09,211,1.117,1.0341
-band_room,AI band + valuation room,2026-09-10,228,1.1032,1.0279
-band_room,AI band + valuation room,2026-09-11,239,1.1135,1.0366
-band_room,AI band + valuation room,2026-09-14,242,1.1121,1.032
-band_room,AI band + valuation room,2026-09-15,248,1.1019,1.0273
-band_room,AI band + valuation room,2026-09-16,232,1.0951,1.0227
-band_room,AI band + valuation room,2026-09-17,241,1.1023,1.0343
-band_room,AI band + valuation room,2026-09-18,250,1.0964,1.0357
-band_room,AI band + valuation room,2026-09-21,244,1.1024,1.0517
-band_room,AI band + valuation room,2026-09-22,257,1.1072,1.0515
-band_room,AI band + valuation room,2026-09-23,260,1.0953,1.044
-band_room,AI band + valuation room,2026-09-24,266,1.0863,1.0431
-band_room,AI band + valuation room,2026-09-25,280,1.0913,1.0488
-band_room,AI band + valuation room,2026-09-28,295,1.08,1.041
-band_room,AI band + valuation room,2026-09-29,283,1.0801,1.0391
-band_room,AI band + valuation room,2026-09-30,290,1.075,1.0369
-band_room,AI band + valuation room,2026-10-01,297,1.0815,1.0388
-band_room,AI band + valuation room,2026-10-02,307,1.0862,1.0465
-band_room,AI band + valuation room,2026-10-05,299,1.0933,1.0535
-band_room,AI band + valuation room,2026-10-06,291,1.1011,1.0593
-band_room,AI band + valuation room,2026-10-07,280,1.0888,1.0568
-band_room,AI band + valuation room,2026-10-08,272,1.0944,1.0523
-band_room,AI band + valuation room,2026-10-09,275,1.099,1.0586
-band_room,AI band + valuation room,2026-10-12,273,1.095,1.058
-band_room,AI band + valuation room,2026-10-13,274,1.0933,1.0578
-band_room,AI band + valuation room,2026-10-14,268,1.0812,1.0464
-band_room,AI band + valuation room,2026-10-15,31,1.0937,1.0494
-band_room,AI band + valuation room,2026-10-16,29,1.0895,1.0378
-band_room,AI band + valuation room,2026-10-19,33,1.0814,1.0422
-band_room,AI band + valuation room,2026-10-20,23,1.0937,1.0457
-band_room,AI band + valuation room,2026-10-21,23,1.0877,1.0512
-band_room,AI band + valuation room,2026-10-22,20,1.0959,1.0387
-band_room,AI band + valuation room,2026-10-23,21,1.0874,1.0333
-band_room,AI band + valuation room,2026-10-26,23,1.0848,1.0407
-band_room,AI band + valuation room,2026-10-27,24,1.0897,1.0465
-band_room,AI band + valuation room,2026-10-28,23,1.0951,1.0501
-band_room,AI band + valuation room,2026-10-29,23,1.0966,1.0461
-band_room,AI band + valuation room,2026-10-30,24,1.0957,1.0275
-band_room,AI band + valuation room,2026-11-02,23,1.0975,1.0226
-band_room,AI band + valuation room,2026-11-03,16,1.1032,1.0257
-band_room,AI band + valuation room,2026-11-04,17,1.1332,1.0426
-band_room,AI band + valuation room,2026-11-05,17,1.1064,0.9966
-band_room,AI band + valuation room,2026-11-06,21,1.1193,0.9998
-band_room,AI band + valuation room,2026-11-09,22,1.147,1.0234
-band_room,AI band + valuation room,2026-11-10,26,1.1395,1.0197
-band_room,AI band + valuation room,2026-11-11,25,1.1587,1.0331
+band_room,AI band + valuation room,2026-06-02,250,1.0461,1.0276
+band_room,AI band + valuation room,2026-06-03,249,1.0298,1.0204
+band_room,AI band + valuation room,2026-06-04,241,1.044,1.0242
+band_room,AI band + valuation room,2026-06-05,247,1.0301,0.9978
+band_room,AI band + valuation room,2026-06-08,245,1.0234,1.0001
+band_room,AI band + valuation room,2026-06-09,273,1.031,0.9971
+band_room,AI band + valuation room,2026-06-10,265,1.0151,0.9814
+band_room,AI band + valuation room,2026-06-11,255,1.0304,0.9981
+band_room,AI band + valuation room,2026-06-12,277,1.0377,1.0035
+band_room,AI band + valuation room,2026-06-15,263,1.0454,1.0212
+band_room,AI band + valuation room,2026-06-16,251,1.0458,1.0151
+band_room,AI band + valuation room,2026-06-17,251,1.0249,1.0024
+band_room,AI band + valuation room,2026-06-18,244,1.0218,1.0128
+band_room,AI band + valuation room,2026-06-22,259,1.0154,1.0096
+band_room,AI band + valuation room,2026-06-23,264,1.0155,0.995
+band_room,AI band + valuation room,2026-06-24,260,1.017,0.9945
+band_room,AI band + valuation room,2026-06-25,280,1.0151,0.9959
+band_room,AI band + valuation room,2026-06-26,267,1.028,0.9887
+band_room,AI band + valuation room,2026-06-29,256,1.0285,1.005
+band_room,AI band + valuation room,2026-06-30,261,1.0293,1.0129
+band_room,AI band + valuation room,2026-07-01,270,1.0381,1.0115
+band_room,AI band + valuation room,2026-07-02,249,1.0556,1.0102
+band_room,AI band + valuation room,2026-07-06,270,1.0598,1.019
+band_room,AI band + valuation room,2026-07-07,261,1.0585,1.0141
+band_room,AI band + valuation room,2026-07-08,262,1.0493,1.011
+band_room,AI band + valuation room,2026-07-09,257,1.0579,1.0196
+band_room,AI band + valuation room,2026-07-10,266,1.062,1.024
+band_room,AI band + valuation room,2026-07-13,277,1.0603,1.0161
+band_room,AI band + valuation room,2026-07-14,273,1.056,1.0197
+band_room,AI band + valuation room,2026-07-15,257,1.0578,1.0238
+band_room,AI band + valuation room,2026-07-16,264,1.0638,1.0182
+band_room,AI band + valuation room,2026-07-17,254,1.055,1.0081
+band_room,AI band + valuation room,2026-07-20,239,1.0508,1.0065
+band_room,AI band + valuation room,2026-07-21,241,1.0525,1.0149
+band_room,AI band + valuation room,2026-07-22,247,1.0496,1.0137
+band_room,AI band + valuation room,2026-07-23,251,1.0438,1.0012
+band_room,AI band + valuation room,2026-07-24,255,1.0513,1.0022
+band_room,AI band + valuation room,2026-07-27,249,1.0674,1.0024
+band_room,AI band + valuation room,2026-07-28,238,1.081,1.0048
+band_room,AI band + valuation room,2026-07-29,235,1.0735,0.9894
+band_room,AI band + valuation room,2026-07-30,212,1.0788,1.006
+band_room,AI band + valuation room,2026-07-31,211,1.078,1.0132
+band_room,AI band + valuation room,2026-08-03,221,1.0937,1.0276
+band_room,AI band + valuation room,2026-08-04,222,1.1119,1.0462
+band_room,AI band + valuation room,2026-08-05,217,1.1087,1.0441
+band_room,AI band + valuation room,2026-08-06,216,1.1066,1.0424
+band_room,AI band + valuation room,2026-08-07,223,1.1248,1.0488
+band_room,AI band + valuation room,2026-08-10,215,1.1261,1.0485
+band_room,AI band + valuation room,2026-08-11,208,1.1275,1.0451
+band_room,AI band + valuation room,2026-08-12,212,1.1299,1.0477
+band_room,AI band + valuation room,2026-08-13,212,1.1382,1.0551
+band_room,AI band + valuation room,2026-08-14,214,1.1417,1.053
+band_room,AI band + valuation room,2026-08-17,210,1.1365,1.048
+band_room,AI band + valuation room,2026-08-18,214,1.1211,1.0409
+band_room,AI band + valuation room,2026-08-19,218,1.145,1.0431
+band_room,AI band + valuation room,2026-08-20,217,1.1378,1.0343
+band_room,AI band + valuation room,2026-08-21,213,1.1477,1.0386
+band_room,AI band + valuation room,2026-08-24,211,1.1436,1.0355
+band_room,AI band + valuation room,2026-08-25,211,1.1484,1.0388
+band_room,AI band + valuation room,2026-08-26,200,1.1464,1.039
+band_room,AI band + valuation room,2026-08-27,206,1.1537,1.0459
+band_room,AI band + valuation room,2026-08-28,209,1.1456,1.0435
+band_room,AI band + valuation room,2026-08-31,208,1.1394,1.0404
+band_room,AI band + valuation room,2026-09-01,211,1.124,1.0332
+band_room,AI band + valuation room,2026-09-02,212,1.1307,1.0378
+band_room,AI band + valuation room,2026-09-03,210,1.1434,1.0487
+band_room,AI band + valuation room,2026-09-04,205,1.1393,1.0446
+band_room,AI band + valuation room,2026-09-08,198,1.1286,1.0389
+band_room,AI band + valuation room,2026-09-09,211,1.1173,1.0341
+band_room,AI band + valuation room,2026-09-10,228,1.1034,1.0279
+band_room,AI band + valuation room,2026-09-11,239,1.1137,1.0366
+band_room,AI band + valuation room,2026-09-14,242,1.1123,1.032
+band_room,AI band + valuation room,2026-09-15,248,1.1021,1.0273
+band_room,AI band + valuation room,2026-09-16,232,1.0953,1.0227
+band_room,AI band + valuation room,2026-09-17,241,1.1026,1.0343
+band_room,AI band + valuation room,2026-09-18,250,1.0966,1.0357
+band_room,AI band + valuation room,2026-09-21,244,1.1026,1.0517
+band_room,AI band + valuation room,2026-09-22,257,1.1074,1.0515
+band_room,AI band + valuation room,2026-09-23,260,1.0955,1.044
+band_room,AI band + valuation room,2026-09-24,266,1.0865,1.0431
+band_room,AI band + valuation room,2026-09-25,280,1.0916,1.0488
+band_room,AI band + valuation room,2026-09-28,295,1.0802,1.041
+band_room,AI band + valuation room,2026-09-29,283,1.0803,1.0391
+band_room,AI band + valuation room,2026-09-30,290,1.0752,1.0369
+band_room,AI band + valuation room,2026-10-01,297,1.0818,1.0388
+band_room,AI band + valuation room,2026-10-02,307,1.0865,1.0465
+band_room,AI band + valuation room,2026-10-05,299,1.0935,1.0535
+band_room,AI band + valuation room,2026-10-06,291,1.1013,1.0593
+band_room,AI band + valuation room,2026-10-07,280,1.0891,1.0568
+band_room,AI band + valuation room,2026-10-08,272,1.0946,1.0523
+band_room,AI band + valuation room,2026-10-09,275,1.0992,1.0586
+band_room,AI band + valuation room,2026-10-12,273,1.0952,1.058
+band_room,AI band + valuation room,2026-10-13,274,1.0935,1.0578
+band_room,AI band + valuation room,2026-10-14,268,1.0814,1.0464
+band_room,AI band + valuation room,2026-10-15,31,1.094,1.0494
+band_room,AI band + valuation room,2026-10-16,29,1.0897,1.0378
+band_room,AI band + valuation room,2026-10-19,33,1.0816,1.0422
+band_room,AI band + valuation room,2026-10-20,23,1.0939,1.0457
+band_room,AI band + valuation room,2026-10-21,23,1.0879,1.0512
+band_room,AI band + valuation room,2026-10-22,20,1.0962,1.0387
+band_room,AI band + valuation room,2026-10-23,21,1.0876,1.0333
+band_room,AI band + valuation room,2026-10-26,23,1.085,1.0407
+band_room,AI band + valuation room,2026-10-27,24,1.09,1.0465
+band_room,AI band + valuation room,2026-10-28,23,1.0954,1.0501
+band_room,AI band + valuation room,2026-10-29,23,1.0969,1.0461
+band_room,AI band + valuation room,2026-10-30,24,1.0959,1.0275
+band_room,AI band + valuation room,2026-11-02,23,1.0978,1.0226
+band_room,AI band + valuation room,2026-11-03,16,1.1035,1.0257
+band_room,AI band + valuation room,2026-11-04,17,1.1335,1.0426
+band_room,AI band + valuation room,2026-11-05,17,1.1067,0.9966
+band_room,AI band + valuation room,2026-11-06,21,1.1195,0.9998
+band_room,AI band + valuation room,2026-11-09,22,1.1472,1.0234
+band_room,AI band + valuation room,2026-11-10,26,1.1397,1.0197
+band_room,AI band + valuation room,2026-11-11,25,1.1589,1.0331
+band_room,AI band + valuation room,2026-11-12,22,1.1464,1.0294
 composite_dyn30,Live Ranking (dynamic),2026-06-05,24,0.999,1
 composite_dyn30,Live Ranking (dynamic),2026-06-08,24,1.0052,1.0023
 composite_dyn30,Live Ranking (dynamic),2026-06-09,24,1.0016,0.9994
@@ -686,6 +691,7 @@ composite_dyn30,Live Ranking (dynamic),2026-11-06,30,0.9978,0.9999
 composite_dyn30,Live Ranking (dynamic),2026-11-09,30,1.0124,1.0236
 composite_dyn30,Live Ranking (dynamic),2026-11-10,30,1.0143,1.0198
 composite_dyn30,Live Ranking (dynamic),2026-11-11,30,1.0284,1.0332
+composite_dyn30,Live Ranking (dynamic),2026-11-12,30,1.0313,1.0295
 composite_pmhm30,"Live Ranking (PMHM, forward test)",2026-09-04,29,0.999,1
 composite_pmhm30,"Live Ranking (PMHM, forward test)",2026-09-08,30,0.9956,0.9945
 composite_pmhm30,"Live Ranking (PMHM, forward test)",2026-09-09,30,0.9958,0.9899
@@ -734,6 +740,7 @@ composite_pmhm30,"Live Ranking (PMHM, forward test)",2026-11-06,30,0.8996,0.9547
 composite_pmhm30,"Live Ranking (PMHM, forward test)",2026-11-09,30,0.9128,0.9773
 composite_pmhm30,"Live Ranking (PMHM, forward test)",2026-11-10,30,0.9138,0.9737
 composite_pmhm30,"Live Ranking (PMHM, forward test)",2026-11-11,30,0.9249,0.9865
+composite_pmhm30,"Live Ranking (PMHM, forward test)",2026-11-12,30,0.9272,0.983
 composite_v2_ctl,Composite v2 (control),2026-05-18,30,0.999,1
 composite_v2_ctl,Composite v2 (control),2026-05-19,30,0.9965,0.9933
 composite_v2_ctl,Composite v2 (control),2026-05-20,30,0.9998,1.0035
@@ -858,6 +865,7 @@ composite_v2_ctl,Composite v2 (control),2026-11-06,0,0.9947,1.0005
 composite_v2_ctl,Composite v2 (control),2026-11-09,0,0.9947,1.0241
 composite_v2_ctl,Composite v2 (control),2026-11-10,0,0.9947,1.0204
 composite_v2_ctl,Composite v2 (control),2026-11-11,0,0.9947,1.0338
+composite_v2_ctl,Composite v2 (control),2026-11-12,0,0.9947,1.0302
 lab_cap6,"Lab: Live Ranking, max 6 per sector",2026-09-23,30,0.999,1
 lab_cap6,"Lab: Live Ranking, max 6 per sector",2026-09-24,30,0.9945,0.9992
 lab_cap6,"Lab: Live Ranking, max 6 per sector",2026-09-25,30,0.9978,1.0046
@@ -894,6 +902,7 @@ lab_cap6,"Lab: Live Ranking, max 6 per sector",2026-11-06,30,0.9513,0.9578
 lab_cap6,"Lab: Live Ranking, max 6 per sector",2026-11-09,30,0.9694,0.9805
 lab_cap6,"Lab: Live Ranking, max 6 per sector",2026-11-10,30,0.9704,0.9769
 lab_cap6,"Lab: Live Ranking, max 6 per sector",2026-11-11,30,0.9812,0.9898
+lab_cap6,"Lab: Live Ranking, max 6 per sector",2026-11-12,30,0.9798,0.9863
 lab_fast30,"Lab: Live Ranking, exact top 30 daily",2026-09-23,30,0.999,1
 lab_fast30,"Lab: Live Ranking, exact top 30 daily",2026-09-24,30,0.9989,0.9992
 lab_fast30,"Lab: Live Ranking, exact top 30 daily",2026-09-25,30,0.9987,1.0046
@@ -930,6 +939,7 @@ lab_fast30,"Lab: Live Ranking, exact top 30 daily",2026-11-06,30,0.9419,0.9578
 lab_fast30,"Lab: Live Ranking, exact top 30 daily",2026-11-09,30,0.9639,0.9805
 lab_fast30,"Lab: Live Ranking, exact top 30 daily",2026-11-10,30,0.9627,0.9769
 lab_fast30,"Lab: Live Ranking, exact top 30 daily",2026-11-11,30,0.9765,0.9898
+lab_fast30,"Lab: Live Ranking, exact top 30 daily",2026-11-12,30,0.974,0.9863
 lab_momval30,"Lab: Live Ranking, momentum + value only",2026-09-23,29,0.999,1
 lab_momval30,"Lab: Live Ranking, momentum + value only",2026-09-24,30,0.9962,0.9992
 lab_momval30,"Lab: Live Ranking, momentum + value only",2026-09-25,30,0.9963,1.0046
@@ -966,6 +976,7 @@ lab_momval30,"Lab: Live Ranking, momentum + value only",2026-11-06,30,0.9772,0.9
 lab_momval30,"Lab: Live Ranking, momentum + value only",2026-11-09,30,0.9903,0.9805
 lab_momval30,"Lab: Live Ranking, momentum + value only",2026-11-10,30,0.9939,0.9769
 lab_momval30,"Lab: Live Ranking, momentum + value only",2026-11-11,30,1.0058,0.9898
+lab_momval30,"Lab: Live Ranking, momentum + value only",2026-11-12,30,1.0069,0.9863
 lab_valsec,"Lab: Live Ranking, value ranked within sector",2026-09-23,29,0.999,1
 lab_valsec,"Lab: Live Ranking, value ranked within sector",2026-09-24,30,0.9939,0.9992
 lab_valsec,"Lab: Live Ranking, value ranked within sector",2026-09-25,30,0.9963,1.0046
@@ -1002,6 +1013,7 @@ lab_valsec,"Lab: Live Ranking, value ranked within sector",2026-11-06,30,0.9447,
 lab_valsec,"Lab: Live Ranking, value ranked within sector",2026-11-09,30,0.9595,0.9805
 lab_valsec,"Lab: Live Ranking, value ranked within sector",2026-11-10,30,0.9616,0.9769
 lab_valsec,"Lab: Live Ranking, value ranked within sector",2026-11-11,30,0.9746,0.9898
+lab_valsec,"Lab: Live Ranking, value ranked within sector",2026-11-12,30,0.9764,0.9863
 mom_vol30,Momentum 12-1/vol Top-30 (SPMO recipe),2026-07-24,30,0.999,1
 mom_vol30,Momentum 12-1/vol Top-30 (SPMO recipe),2026-07-27,30,0.9745,1.0002
 mom_vol30,Momentum 12-1/vol Top-30 (SPMO recipe),2026-07-28,30,0.9097,1.0026
@@ -1080,6 +1092,7 @@ mom_vol30,Momentum 12-1/vol Top-30 (SPMO recipe),2026-11-06,30,0.9117,0.9959
 mom_vol30,Momentum 12-1/vol Top-30 (SPMO recipe),2026-11-09,30,0.9536,1.0195
 mom_vol30,Momentum 12-1/vol Top-30 (SPMO recipe),2026-11-10,30,0.9525,1.0157
 mom_vol30,Momentum 12-1/vol Top-30 (SPMO recipe),2026-11-11,30,0.9797,1.0291
+mom_vol30,Momentum 12-1/vol Top-30 (SPMO recipe),2026-11-12,30,0.9737,1.0255
 site_composite,"Site Ranking (composite v3, quarterly)",2026-05-18,30,0.999,1
 site_composite,"Site Ranking (composite v3, quarterly)",2026-05-19,30,0.9965,0.9933
 site_composite,"Site Ranking (composite v3, quarterly)",2026-05-20,30,0.9998,1.0035
@@ -1139,71 +1152,72 @@ site_composite,"Site Ranking (composite v3, quarterly)",2026-08-06,17,1.0144,1.0
 site_composite,"Site Ranking (composite v3, quarterly)",2026-08-07,17,1.0121,1.0495
 site_composite,"Site Ranking (composite v3, quarterly)",2026-08-10,16,1.0084,1.0492
 site_composite,"Site Ranking (composite v3, quarterly)",2026-08-11,16,1.0063,1.0459
-site_composite,"Site Ranking (composite v3, quarterly)",2026-08-12,15,1.0046,1.0485
+site_composite,"Site Ranking (composite v3, quarterly)",2026-08-12,16,1.0047,1.0485
 site_composite,"Site Ranking (composite v3, quarterly)",2026-08-13,13,1.0062,1.0558
-site_composite,"Site Ranking (composite v3, quarterly)",2026-08-14,11,1.0088,1.0537
-site_composite,"Site Ranking (composite v3, quarterly)",2026-08-17,11,1.0049,1.0487
-site_composite,"Site Ranking (composite v3, quarterly)",2026-08-18,10,1.0059,1.0416
-site_composite,"Site Ranking (composite v3, quarterly)",2026-08-19,10,0.9994,1.0438
-site_composite,"Site Ranking (composite v3, quarterly)",2026-08-20,10,0.9984,1.0351
-site_composite,"Site Ranking (composite v3, quarterly)",2026-08-21,10,0.9994,1.0393
-site_composite,"Site Ranking (composite v3, quarterly)",2026-08-24,10,1.0033,1.0362
-site_composite,"Site Ranking (composite v3, quarterly)",2026-08-25,9,1.0022,1.0395
-site_composite,"Site Ranking (composite v3, quarterly)",2026-08-26,9,1.0042,1.0398
-site_composite,"Site Ranking (composite v3, quarterly)",2026-08-27,9,1.0014,1.0466
-site_composite,"Site Ranking (composite v3, quarterly)",2026-08-28,9,1.0012,1.0442
-site_composite,"Site Ranking (composite v3, quarterly)",2026-08-31,9,0.9979,1.0411
-site_composite,"Site Ranking (composite v3, quarterly)",2026-09-01,9,0.9965,1.0339
-site_composite,"Site Ranking (composite v3, quarterly)",2026-09-02,9,1.0002,1.0385
-site_composite,"Site Ranking (composite v3, quarterly)",2026-09-03,8,1.0053,1.0494
-site_composite,"Site Ranking (composite v3, quarterly)",2026-09-04,8,1.0031,1.0454
-site_composite,"Site Ranking (composite v3, quarterly)",2026-09-08,8,0.9995,1.0396
-site_composite,"Site Ranking (composite v3, quarterly)",2026-09-09,7,0.9987,1.0348
-site_composite,"Site Ranking (composite v3, quarterly)",2026-09-10,7,0.9998,1.0286
-site_composite,"Site Ranking (composite v3, quarterly)",2026-09-11,7,1.0015,1.0373
-site_composite,"Site Ranking (composite v3, quarterly)",2026-09-14,7,1.0015,1.0327
-site_composite,"Site Ranking (composite v3, quarterly)",2026-09-15,7,1.0007,1.028
-site_composite,"Site Ranking (composite v3, quarterly)",2026-09-16,7,0.9952,1.0235
-site_composite,"Site Ranking (composite v3, quarterly)",2026-09-17,7,0.9957,1.0351
-site_composite,"Site Ranking (composite v3, quarterly)",2026-09-18,7,0.9951,1.0364
-site_composite,"Site Ranking (composite v3, quarterly)",2026-09-21,7,0.9941,1.0525
-site_composite,"Site Ranking (composite v3, quarterly)",2026-09-22,7,0.9898,1.0523
-site_composite,"Site Ranking (composite v3, quarterly)",2026-09-23,7,0.9869,1.0447
-site_composite,"Site Ranking (composite v3, quarterly)",2026-09-24,7,0.9861,1.0439
-site_composite,"Site Ranking (composite v3, quarterly)",2026-09-25,7,0.9879,1.0495
-site_composite,"Site Ranking (composite v3, quarterly)",2026-09-28,5,0.9865,1.0417
-site_composite,"Site Ranking (composite v3, quarterly)",2026-09-29,5,0.9858,1.0398
-site_composite,"Site Ranking (composite v3, quarterly)",2026-09-30,5,0.9845,1.0377
-site_composite,"Site Ranking (composite v3, quarterly)",2026-10-01,30,0.9847,1.0395
-site_composite,"Site Ranking (composite v3, quarterly)",2026-10-02,30,0.9948,1.0472
-site_composite,"Site Ranking (composite v3, quarterly)",2026-10-05,30,1.0042,1.0543
-site_composite,"Site Ranking (composite v3, quarterly)",2026-10-06,30,1.0019,1.0601
-site_composite,"Site Ranking (composite v3, quarterly)",2026-10-07,30,0.9922,1.0575
-site_composite,"Site Ranking (composite v3, quarterly)",2026-10-08,30,1.0049,1.053
-site_composite,"Site Ranking (composite v3, quarterly)",2026-10-09,30,1.0039,1.0594
-site_composite,"Site Ranking (composite v3, quarterly)",2026-10-12,30,1.0088,1.0587
-site_composite,"Site Ranking (composite v3, quarterly)",2026-10-13,30,1.0169,1.0586
-site_composite,"Site Ranking (composite v3, quarterly)",2026-10-14,28,1.0137,1.0471
-site_composite,"Site Ranking (composite v3, quarterly)",2026-10-15,2,1.0113,1.0501
-site_composite,"Site Ranking (composite v3, quarterly)",2026-10-16,2,1.0119,1.0385
-site_composite,"Site Ranking (composite v3, quarterly)",2026-10-19,2,1.0114,1.0429
-site_composite,"Site Ranking (composite v3, quarterly)",2026-10-20,1,1.01,1.0464
-site_composite,"Site Ranking (composite v3, quarterly)",2026-10-21,1,1.0109,1.0519
-site_composite,"Site Ranking (composite v3, quarterly)",2026-10-22,1,1.0108,1.0395
-site_composite,"Site Ranking (composite v3, quarterly)",2026-10-23,1,1.0114,1.034
-site_composite,"Site Ranking (composite v3, quarterly)",2026-10-26,1,1.0117,1.0414
-site_composite,"Site Ranking (composite v3, quarterly)",2026-10-27,1,1.0114,1.0472
-site_composite,"Site Ranking (composite v3, quarterly)",2026-10-28,1,1.0119,1.0508
-site_composite,"Site Ranking (composite v3, quarterly)",2026-10-29,1,1.0121,1.0468
-site_composite,"Site Ranking (composite v3, quarterly)",2026-10-30,1,1.0122,1.0283
-site_composite,"Site Ranking (composite v3, quarterly)",2026-11-02,1,1.0113,1.0233
-site_composite,"Site Ranking (composite v3, quarterly)",2026-11-03,0,1.0109,1.0264
-site_composite,"Site Ranking (composite v3, quarterly)",2026-11-04,0,1.0109,1.0434
-site_composite,"Site Ranking (composite v3, quarterly)",2026-11-05,0,1.0109,0.9973
-site_composite,"Site Ranking (composite v3, quarterly)",2026-11-06,0,1.0109,1.0005
-site_composite,"Site Ranking (composite v3, quarterly)",2026-11-09,0,1.0109,1.0241
-site_composite,"Site Ranking (composite v3, quarterly)",2026-11-10,0,1.0109,1.0204
-site_composite,"Site Ranking (composite v3, quarterly)",2026-11-11,0,1.0109,1.0338
+site_composite,"Site Ranking (composite v3, quarterly)",2026-08-14,13,1.0088,1.0537
+site_composite,"Site Ranking (composite v3, quarterly)",2026-08-17,10,1.0043,1.0487
+site_composite,"Site Ranking (composite v3, quarterly)",2026-08-18,9,1.0051,1.0416
+site_composite,"Site Ranking (composite v3, quarterly)",2026-08-19,9,0.9989,1.0438
+site_composite,"Site Ranking (composite v3, quarterly)",2026-08-20,9,0.9975,1.0351
+site_composite,"Site Ranking (composite v3, quarterly)",2026-08-21,9,0.9983,1.0393
+site_composite,"Site Ranking (composite v3, quarterly)",2026-08-24,9,1.0016,1.0362
+site_composite,"Site Ranking (composite v3, quarterly)",2026-08-25,9,1.0007,1.0395
+site_composite,"Site Ranking (composite v3, quarterly)",2026-08-26,9,1.0027,1.0398
+site_composite,"Site Ranking (composite v3, quarterly)",2026-08-27,9,1,1.0466
+site_composite,"Site Ranking (composite v3, quarterly)",2026-08-28,9,0.9997,1.0442
+site_composite,"Site Ranking (composite v3, quarterly)",2026-08-31,9,0.9964,1.0411
+site_composite,"Site Ranking (composite v3, quarterly)",2026-09-01,9,0.995,1.0339
+site_composite,"Site Ranking (composite v3, quarterly)",2026-09-02,9,0.9987,1.0385
+site_composite,"Site Ranking (composite v3, quarterly)",2026-09-03,8,1.0038,1.0494
+site_composite,"Site Ranking (composite v3, quarterly)",2026-09-04,8,1.0016,1.0454
+site_composite,"Site Ranking (composite v3, quarterly)",2026-09-08,8,0.998,1.0396
+site_composite,"Site Ranking (composite v3, quarterly)",2026-09-09,7,0.9973,1.0348
+site_composite,"Site Ranking (composite v3, quarterly)",2026-09-10,7,0.9983,1.0286
+site_composite,"Site Ranking (composite v3, quarterly)",2026-09-11,7,1,1.0373
+site_composite,"Site Ranking (composite v3, quarterly)",2026-09-14,7,1.0001,1.0327
+site_composite,"Site Ranking (composite v3, quarterly)",2026-09-15,7,0.9992,1.028
+site_composite,"Site Ranking (composite v3, quarterly)",2026-09-16,7,0.9937,1.0235
+site_composite,"Site Ranking (composite v3, quarterly)",2026-09-17,7,0.9942,1.0351
+site_composite,"Site Ranking (composite v3, quarterly)",2026-09-18,7,0.9936,1.0364
+site_composite,"Site Ranking (composite v3, quarterly)",2026-09-21,7,0.9926,1.0525
+site_composite,"Site Ranking (composite v3, quarterly)",2026-09-22,7,0.9883,1.0523
+site_composite,"Site Ranking (composite v3, quarterly)",2026-09-23,7,0.9855,1.0447
+site_composite,"Site Ranking (composite v3, quarterly)",2026-09-24,7,0.9846,1.0439
+site_composite,"Site Ranking (composite v3, quarterly)",2026-09-25,7,0.9865,1.0495
+site_composite,"Site Ranking (composite v3, quarterly)",2026-09-28,5,0.985,1.0417
+site_composite,"Site Ranking (composite v3, quarterly)",2026-09-29,5,0.9843,1.0398
+site_composite,"Site Ranking (composite v3, quarterly)",2026-09-30,5,0.9831,1.0377
+site_composite,"Site Ranking (composite v3, quarterly)",2026-10-01,30,0.9832,1.0395
+site_composite,"Site Ranking (composite v3, quarterly)",2026-10-02,30,0.9933,1.0472
+site_composite,"Site Ranking (composite v3, quarterly)",2026-10-05,30,1.0026,1.0543
+site_composite,"Site Ranking (composite v3, quarterly)",2026-10-06,30,1.0004,1.0601
+site_composite,"Site Ranking (composite v3, quarterly)",2026-10-07,30,0.9907,1.0575
+site_composite,"Site Ranking (composite v3, quarterly)",2026-10-08,30,1.0034,1.053
+site_composite,"Site Ranking (composite v3, quarterly)",2026-10-09,30,1.0023,1.0594
+site_composite,"Site Ranking (composite v3, quarterly)",2026-10-12,30,1.0073,1.0587
+site_composite,"Site Ranking (composite v3, quarterly)",2026-10-13,30,1.0154,1.0586
+site_composite,"Site Ranking (composite v3, quarterly)",2026-10-14,28,1.0122,1.0471
+site_composite,"Site Ranking (composite v3, quarterly)",2026-10-15,2,1.0097,1.0501
+site_composite,"Site Ranking (composite v3, quarterly)",2026-10-16,2,1.0104,1.0385
+site_composite,"Site Ranking (composite v3, quarterly)",2026-10-19,2,1.0099,1.0429
+site_composite,"Site Ranking (composite v3, quarterly)",2026-10-20,1,1.0085,1.0464
+site_composite,"Site Ranking (composite v3, quarterly)",2026-10-21,1,1.0094,1.0519
+site_composite,"Site Ranking (composite v3, quarterly)",2026-10-22,1,1.0092,1.0395
+site_composite,"Site Ranking (composite v3, quarterly)",2026-10-23,1,1.0099,1.034
+site_composite,"Site Ranking (composite v3, quarterly)",2026-10-26,1,1.0102,1.0414
+site_composite,"Site Ranking (composite v3, quarterly)",2026-10-27,1,1.0099,1.0472
+site_composite,"Site Ranking (composite v3, quarterly)",2026-10-28,1,1.0103,1.0508
+site_composite,"Site Ranking (composite v3, quarterly)",2026-10-29,1,1.0106,1.0468
+site_composite,"Site Ranking (composite v3, quarterly)",2026-10-30,1,1.0107,1.0283
+site_composite,"Site Ranking (composite v3, quarterly)",2026-11-02,1,1.0097,1.0233
+site_composite,"Site Ranking (composite v3, quarterly)",2026-11-03,0,1.0094,1.0264
+site_composite,"Site Ranking (composite v3, quarterly)",2026-11-04,0,1.0094,1.0434
+site_composite,"Site Ranking (composite v3, quarterly)",2026-11-05,0,1.0094,0.9973
+site_composite,"Site Ranking (composite v3, quarterly)",2026-11-06,0,1.0094,1.0005
+site_composite,"Site Ranking (composite v3, quarterly)",2026-11-09,0,1.0094,1.0241
+site_composite,"Site Ranking (composite v3, quarterly)",2026-11-10,0,1.0094,1.0204
+site_composite,"Site Ranking (composite v3, quarterly)",2026-11-11,0,1.0094,1.0338
+site_composite,"Site Ranking (composite v3, quarterly)",2026-11-12,0,1.0094,1.0302
 top_10,Top 10 by AI score (control),2026-05-18,10,0.999,1
 top_10,Top 10 by AI score (control),2026-05-19,10,0.9945,0.9933
 top_10,Top 10 by AI score (control),2026-05-20,10,0.9923,1.0035
@@ -1328,6 +1342,7 @@ top_10,Top 10 by AI score (control),2026-11-06,10,0.7936,1.0005
 top_10,Top 10 by AI score (control),2026-11-09,10,0.8033,1.0241
 top_10,Top 10 by AI score (control),2026-11-10,10,0.8022,1.0204
 top_10,Top 10 by AI score (control),2026-11-11,10,0.8081,1.0338
+top_10,Top 10 by AI score (control),2026-11-12,10,0.7996,1.0302
 top_30,Top 30 by AI score (control),2026-05-18,30,0.999,1
 top_30,Top 30 by AI score (control),2026-05-19,30,0.9933,0.9933
 top_30,Top 30 by AI score (control),2026-05-20,30,0.9919,1.0035
@@ -1452,3 +1467,4 @@ top_30,Top 30 by AI score (control),2026-11-06,30,0.8696,1.0005
 top_30,Top 30 by AI score (control),2026-11-09,30,0.8884,1.0241
 top_30,Top 30 by AI score (control),2026-11-10,30,0.8832,1.0204
 top_30,Top 30 by AI score (control),2026-11-11,30,0.8895,1.0338
+top_30,Top 30 by AI score (control),2026-11-12,30,0.8826,1.0302
