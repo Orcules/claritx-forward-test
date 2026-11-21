@@ -1,4 +1,10 @@
 snapshot_date,cohort,cohort_label,holdings,win_rate,mean_return,median_return,mean_alpha,sp500_mean_return,avg_days_held,best_symbol,worst_symbol
+2026-11-20,top_10,Top 10 by peak score,10,0.5,0.0206,0.0109,0.0966,-0.0761,118.6,LLY,RVMD
+2026-11-20,top_20,Top 20 by peak score,20,0.4,-0.041,-0.0035,0.0401,-0.0811,116.6,LLY,NVDA
+2026-11-20,top_30,Top 30 by peak score,30,0.3667,-0.0554,-0.0242,0.0279,-0.0834,115.1,LLY,GFS
+2026-11-20,score_90,Score ≥ 90,459,0.4074,-0.0473,-0.0367,0.0289,-0.0761,145.8,CRWD,TSEM
+2026-11-20,score_92,Score ≥ 92,329,0.4012,-0.0412,-0.0379,0.0375,-0.0787,136.6,CRWD,UMC
+2026-11-20,score_95,Score ≥ 95,95,0.3895,-0.0476,-0.0293,0.038,-0.0856,116.9,LLY,GFS
 2026-11-19,top_10,Top 10 by peak score,10,0.7,0.0028,0.0223,0.044,-0.0412,112.1,ARGX,RVMD
 2026-11-19,top_20,Top 20 by peak score,20,0.7,0.0085,0.0244,0.0532,-0.0447,124.1,LLY,NVDA
 2026-11-19,top_30,Top 30 by peak score,30,0.5667,-0.0255,0.0094,0.0239,-0.0494,113.7,LLY,GFS
@@ -527,9 +533,3 @@ snapshot_date,cohort,cohort_label,holdings,win_rate,mean_return,median_return,me
 2026-07-18,score_90,Score ≥ 90,361,0.5346,-0.0033,0.0056,-0.002,-0.0013,41.9,SN,MLI
 2026-07-18,score_92,Score ≥ 92,226,0.4912,-0.0097,-0.0001,-0.0072,-0.0025,39.7,SN,MLI
 2026-07-18,score_95,Score ≥ 95,48,0.4792,-0.0031,-0.0021,-0.0005,-0.0027,35.6,VLO,STRL
-2026-07-17,top_10,Top 10 by peak score,10,0.1,-0.0227,-0.0204,-0.0197,-0.003,31,LLY,NVDA
-2026-07-17,top_20,Top 20 by peak score,20,0.35,-0.0165,-0.0056,-0.0136,-0.0029,30.9,TRV,GFS
-2026-07-17,top_30,Top 30 by peak score,30,0.3333,-0.0195,-0.0108,-0.0155,-0.004,30.1,TRV,GFS
-2026-07-17,score_90,Score ≥ 90,361,0.5346,-0.0033,0.0056,-0.0021,-0.0013,40.9,SN,MLI
-2026-07-17,score_92,Score ≥ 92,226,0.4912,-0.0097,-0.0001,-0.0072,-0.0025,38.7,SN,MLI
-2026-07-17,score_95,Score ≥ 95,48,0.4792,-0.0031,-0.0021,-0.0005,-0.0027,34.6,VLO,STRL
